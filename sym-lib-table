@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name GameboyPi-rescue)(type Legacy)(uri ${KIPRJMOD}/GameboyPi-rescue.lib)(options "")(descr ""))
+)
